@@ -150,106 +150,106 @@ const FOODS = [
 ];
 
 const COMPLIMENTS = [
-  "You make ordinary days feel like celebrations.",
-  "Your laughter is the best background music.",
-  "You have an extraordinary ability to make people feel seen.",
-  "You bring positive energy just by showing up.",
-  "Your warmth is something people remember for years.",
-  "You are the kind of friend people write about in diaries.",
-  "You have the rare gift of making silence comfortable.",
-  "You notice things others miss — and that makes you remarkable.",
-  "Your kindness is never performative. It's just who you are.",
-  "You make people braver just by believing in them.",
-  "The world is genuinely better because you're in it.",
-  "You carry light wherever you go.",
-  "You are consistently, effortlessly yourself — and that's beautiful.",
-  "You make hard conversations feel safe.",
-  "You give the best advice because you actually listen first.",
-  "You are someone people turn to — and they're lucky they can.",
-  "You hold space for others in a way few people know how to.",
-  "Your presence is calming in a chaotic world.",
-  "You are ambitious and humble at the same time — that's rare.",
-  "You make every group better just by being part of it.",
-  "You have excellent taste in food, music, and people.",
-  "You are genuinely, consistently funny without trying too hard.",
-  "You make people feel like their problems are solvable.",
-  "You are the kind of person that stories get told about.",
-  "You have a heart big enough for everyone around you.",
-  "Your creativity is quietly stunning.",
-  "You are dependable in a world that isn't always.",
-  "You make difficult things look effortless.",
-  "You are someone people want to become better for.",
-  "You have an unforgettable energy.",
-  "You bring colour to grey days.",
-  "You are honest in the kindest possible way.",
-  "You are curious about the right things.",
-  "You have a gift for finding beauty in small things.",
-  "You are loyal in a way that doesn't require being asked.",
-  "You are someone people feel lucky to know.",
-  "You inspire without realising you do.",
-  "You are wildly underrated.",
-  "You have the courage to be kind even when it's easier not to be.",
-  "You turn ordinary meals into memorable experiences.",
-  "You make people feel at home wherever you are.",
-  "You are interesting in every conversation.",
-  "You have a memory for the things that matter most to people.",
-  "You are thoughtful in ways that never go unnoticed.",
-  "You are the reason someone's day got better today.",
-  "You bring depth to every friendship you're part of.",
-  "You are emotionally intelligent in a rare, beautiful way.",
-  "You make people laugh at exactly the right moments.",
-  "You are someone the world genuinely needs more of.",
-  "You are a safe harbour for people you love.",
-  "You make ambitious things feel possible.",
-  "You have excellent instincts and excellent snacks.",
-  "You are present in a distracted world.",
-  "You give thoughtful gifts because you pay thoughtful attention.",
-  "You are the friend who actually shows up.",
-  "You make people feel less alone.",
-  "You have an inner strength that you probably don't fully see.",
-  "You are bold when it counts.",
-  "You have a way of making everyone feel included.",
-  "You are generous with your time, energy, and chutney.",
-  "You face hard things with a grace that's truly admirable.",
-  "You are the kind of person who makes places better by being there.",
-  "You are more resilient than you know.",
-  "You carry yourself with quiet confidence.",
-  "You are original in the best possible way.",
-  "You have the ability to turn sadness into something survivable.",
-  "You are incredibly good at being a person.",
-  "You make even bad days worth showing up for.",
-  "You notice when people are struggling before they say anything.",
-  "You are the kind of friend who makes other friends better.",
-  "You have a beautiful mind and an even more beautiful heart.",
-  "You are worth every good thing that comes your way.",
-  "You are irreplaceable.",
-  "You have a voice worth listening to.",
-  "You are someone's favourite chapter.",
-  "You make friendship look easy — but you work at it constantly.",
-  "You have an enduring optimism that is contagious.",
-  "You are kind to service staff, and that says everything.",
-  "You are someone who finishes what they start.",
-  "You are equal parts soft and strong.",
-  "You make people want to try harder.",
-  "You are the calm in someone's storm.",
-  "You bring out the best version of people around you.",
-  "You are consistently, quietly extraordinary.",
-  "You have a way of making people feel proud of themselves.",
-  "You are brave in ways that never make headlines.",
-  "You are a keeper.",
-  "You are funny in the way that actually matters — genuine.",
-  "You make people feel like their quirks are their superpowers.",
-  "You are someone who will be missed when absent.",
-  "You live with intention, and it shows.",
-  "You love food with the same passion you love people.",
-  "You are the real MVP of every friend group.",
-  "You have a taste for life that most people never develop.",
-  "You are endlessly interesting.",
-  "You make the world more flavourful.",
-  "You are exactly the kind of person you'd want to be friends with.",
-  "You are someone's lucky charm.",
-  "You have a story worth reading.",
-  "You are the secret ingredient in every good memory.",
+  "I don't know what it is about you, but somehow you make even my worst days feel a little lighter."
+"You're becoming my favorite part of days that don't even involve you."
+"I could spend hours talking to you and still wish we had more time."
+"You make me smile at my phone in ways that are honestly embarrassing."
+"Every conversation with you somehow becomes the best part of my day."
+"I didn't mean to get attached, but you made that plan impossible."
+"You have a way of making everything around you feel a little more exciting."
+"I genuinely look forward to hearing from you."
+"You're the kind of person people accidentally write paragraphs about."
+"You make ordinary moments feel like memories worth keeping."
+"I think you're beautiful, but it's your mind that keeps pulling me back."
+"You're so easy to talk to that I forget to pretend I'm cool."
+"You make me want to tell you every random thought that crosses my mind."
+"I don't think you realize how naturally charming you are."
+"Somehow, you always leave me wanting one more conversation."
+"You have the kind of smile that can completely change someone's mood."
+"The more I learn about you, the more fascinating you become."
+"You make me feel comfortable and nervous at exactly the same time."
+"Your attention feels like a reward."
+"I could never get tired of hearing your thoughts."
+"You make me laugh when I'm trying very hard not to."
+"You have a habit of staying on my mind long after we've talked."
+"Being around you feels suspiciously similar to happiness."
+"You're proof that personality can be unbelievably attractive."
+"I think my day automatically improves whenever you're part of it."
+"You're the first person I want to tell things to."
+"You somehow make even silence feel comfortable."
+"You make me forget what I was supposed to be focusing on."
+"You have a way of making people feel special without even realizing it."
+"I honestly don't think you know how lovable you are."
+"Your laugh is becoming one of my favorite sounds."
+"You're the kind of person I'd choose in every room."
+"I could listen to you talk about absolutely anything."
+"You make me feel like the luckiest person when you choose to spend time with me."
+"I didn't expect you to matter this much to me."
+"You somehow manage to be both adorable and incredibly attractive."
+"You make me miss you before you've even left."
+"Every time I see your name pop up, my mood gets better."
+"You have the kind of energy people naturally gravitate toward."
+"I never get bored of you."
+"You make my heart do things that are honestly a little inconvenient."
+"You're one of those rare people who gets even better the more you know them."
+"I like how safe you make honesty feel."
+"You make me want to be the best version of myself."
+"You somehow make everything feel less complicated."
+"I could probably spend an entire day with you and still not want it to end."
+"You're the reason my screen time report is embarrassing."
+"You have no business being this attractive and this sweet at the same time."
+"I love how your mind works."
+"If liking you were a competition, I'd already be winning."
+"You make me feel excited about the smallest things."
+"I don't think you realize how much brighter you make my days."
+"You're the kind of person I never get tired of talking to."
+"I love how effortlessly you make people feel comfortable."
+"You somehow manage to be my peace and my butterflies."
+"I catch myself smiling when I think about you."
+"You make me want to stay up a little longer just to keep talking."
+"You're incredibly easy to care about."
+"I like the way you see the world."
+"You have a smile that could probably get away with anything."
+"You make me feel like the luckiest person in the room."
+"You're the reason random moments suddenly become good memories."
+"I could read a hundred messages from you and still want one more."
+"You make me feel seen in a way that very few people do."
+"You're genuinely one of the most interesting people I've met."
+"You make my heart feel a little fuller."
+"I love how easy it is to be myself around you."
+"You somehow make ordinary conversations feel special."
+"I think the best part of my day is hearing from you."
+"You make me forget every reason I had for playing it cool."
+"Your presence has a way of making everything better."
+"You make me feel like life is a little more fun."
+"You have the kind of personality people secretly wish they had."
+"I like you more than I probably should."
+"You make me laugh in ways nobody else can."
+"You're the first person I think of when something good happens."
+"I don't know how you do it, but you always make me feel important."
+"You make even the simplest moments feel worth remembering."
+"There's something about you that's impossible to ignore."
+"You somehow keep getting more attractive the more I know you."
+"You have a way of making me feel at home."
+"I don't think I've ever met someone quite like you."
+"You make my heart feel ridiculously soft."
+"You turn my bad moods into good ones without even trying."
+"I could spend all day with you and still miss you afterward."
+"You make me feel special in the smallest ways."
+"You're the kind of person I could never get enough of."
+"I love how your eyes light up when you're excited about something."
+"You make me look forward to tomorrow."
+"You have a way of making everything feel a little more meaningful."
+"Being around you feels like my favorite place."
+"You make me want to keep choosing you."
+"I love how naturally kind you are."
+"You make me feel like I'm exactly where I want to be."
+"You're the kind of person people write love songs about."
+"I think my heart recognizes you before my mind does."
+"You make it impossible not to care about you."
+"You're my favorite notification."
+"You somehow make every day feel a little less ordinary."
+"If I had to choose my favorite person to spend time with, it'd be you every single time." ❤️,
 ];
 
 const OPEN_WHEN = [
